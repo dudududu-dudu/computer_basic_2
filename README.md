@@ -1,4 +1,4 @@
-# computer_baseic_2
+# computer_basic_2
 
 武蔵野美術大学造形学部通信教育課程
 
